@@ -311,7 +311,8 @@ PRODUCT_PACKAGES += \
     libhwbinder.vendor \
     libhidltransport \
     libhidltransport.vendor \
-    libhidlbase
+    libhidlbase \
+    libunwindstack.vendor
 
 # MTK Jars (for IMS)
 PRODUCT_BOOT_JARS += \
