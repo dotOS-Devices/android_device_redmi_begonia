@@ -7,12 +7,16 @@
     "repository" : "vendor_redmi_begonia",
     "target_path": "vendor/redmi/begonia"
   },
-  {
-    "repository" : "vendor_mediatek_hardware_telephony-ext",
-    "target_path": "vendor/mediatek/hardware/telephony-ext"
+ {
+    "repository" : "vendor_mediatek_opensource",
+    "target_path": "vendor/mediatek/opensource"
   },
   {
-    "repository" : "vendor_mediatek_hardware_interfaces",
-    "target_path": "vendor/mediatek/hardware/interfaces"
+    "repository" : "vendor_mediatek_interfaces",
+    "target_path": "vendor/mediatek/interfaces"
+  },
+  {
+    "repository" : "vendor_mediatek_ims",
+    "target_path": "vendor/mediatek/ims"
   }
 ]
